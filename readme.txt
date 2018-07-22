@@ -1,4 +1,4 @@
 this is git
 i changed
 i write some word again
-learn branch
+learn branch use master
