@@ -2,5 +2,6 @@ this is git
 i changed
 i write some word again
 
-learn branch use master
+learn branch use master_master
+and changed in master
 
